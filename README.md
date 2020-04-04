@@ -16,6 +16,6 @@ OR
 # Compatibility
 Version of GNOME :
 
-    · 3.26
+    · 3.36
 
 It should work with any version of GNOME 3. Don't hesitate to tell me if it works with a particular version of GNOME, I will add it officially.
